@@ -27,3 +27,12 @@ Halli-Santhe is a modern Android ecommerce application developed to digitally co
 ## Demo Video
 
 [Watch Demo]([YOUR_LINK](https://drive.google.com/file/d/1ajnJKUo5WjSzt3wd9JsUkxSwdnSmWZ0F/view?usp=sharing))
+
+## Future Enhancements
+
+- Online payment integration
+- Firebase Authentication
+- Real-time order tracking
+- AI product recommendations
+- Seller analytics dashboard
+- Voice-based product search
