@@ -23,3 +23,7 @@ Halli-Santhe is a modern Android ecommerce application developed to digitally co
 - RecyclerView
 - Android Studio
 - Material Design Components
+
+## Demo Video
+
+[Watch Demo]([YOUR_LINK](https://drive.google.com/file/d/1ajnJKUo5WjSzt3wd9JsUkxSwdnSmWZ0F/view?usp=sharing))
